@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+
+p{
+    color:rgb(26, 244, 171);
+}
+*{
+    background-color: rgb(144, 147, 139);
+    color: rgb(255, 111, 0);
+
+}
+.para{
+    color:black;
+    font-size: 2rem;
+}
+#id1{
+    color: blueviolet;
+    font-family: ;
+    font-weight: 500;
+    /* */
+}
+.bolds{
+    font-size: 3em;
+    font-weight: 900;
+}
