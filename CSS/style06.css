@@ -1,0 +1,20 @@
+p{
+    color: rgb(99,77, 88);
+}
+.container{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+   /* background-image: url(../d1.png);
+   opacity: 0.2; */
+    padding-left: 50px;
+    padding-top: 100px;
+    /*     border-width: 20px;
+        border-color: brown;
+        border-style:dotted; */
+        border:2px red solid;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 20px;
+    
+}
